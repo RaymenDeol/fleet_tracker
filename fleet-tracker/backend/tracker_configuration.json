@@ -1,0 +1,5 @@
+{
+	"mapsApiKey": "AIzaSyDEaqlF8Hfrz1qEnOEexnRuwCaASITRBhs",
+	"databaseURL": "https://fleet-tracker-1000.firebaseio.com",
+	"simulation": true
+}
